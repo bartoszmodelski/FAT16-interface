@@ -1,0 +1,22 @@
+
+<>  FORMAT
+Current dir: root
+<>  TESTING
+Content of /firstdir/seconddir: 
+testfile1.txt
+Current dir: seconddir
+Content of .: 
+testfile1.txt
+<>  SAVE TO FILE _a
+Disk has been saved.
+<>  SAVE TO FILE _b
+Disk has been saved.
+Current dir: thirddir
+<>  SAVE TO FILE _c
+Disk has been saved.
+Current dir: seconddir
+Current dir: firstdir
+Current dir: root
+<>  SAVE TO FILE _d
+Disk has been saved.
+<>  DONE 
